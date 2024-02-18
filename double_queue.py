@@ -18,7 +18,6 @@ def is_palindrome(check_string: str):
             return False
         return True
 
-
 #Керувати програмою
 def main():
     print(f'Вітаю у додатку з перевірки паліндромів!')
